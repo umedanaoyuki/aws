@@ -52,5 +52,8 @@ S3で保存しているデータにバケット単位でアクセス権限を設
 
 ### インスタンスファミリー
 ![Alt text](IMG_6387.png)
+![Alt text](IMG_6386.png)
 
+### ハードウェア専有 vs Dedicated Host
+![Alt text](IMG_6385.png)
 
