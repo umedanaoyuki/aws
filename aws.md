@@ -57,3 +57,5 @@ S3で保存しているデータにバケット単位でアクセス権限を設
 ### ハードウェア専有 vs Dedicated Host
 ![Alt text](IMG_6385.png)
 
+### Iaas vs Paas
+![](<Infrastructure as a Service.png>)
